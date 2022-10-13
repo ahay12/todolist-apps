@@ -9,6 +9,10 @@ Require :
 - electron js
 # download node js
 install node js v16.16.0 [disini](https://nodejs.org/en/)
+# jika ingin mendownload otomatis
+```
+npm install
+```
 # 1. install tailwind
 ```
 npm install -D tailwindcss
