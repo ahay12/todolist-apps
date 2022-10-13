@@ -4,7 +4,8 @@ HOW TO INSTALL
 
 Require :
 - node js
-- tailwind
+- express js
+- tailwind css
 - electron js
 # download node js
 install node js v16.16.0 [disini](https://nodejs.org/en/)
