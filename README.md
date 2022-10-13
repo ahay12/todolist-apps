@@ -12,7 +12,7 @@ install node js v16.16.0 [disini](https://nodejs.org/en/)
 # jika ingin mendownload otomatis
 akan mendowload library apa saja yang dipakai
 ```
-npm install
+npm install --production
 ```
 # 1. install tailwind
 ```
