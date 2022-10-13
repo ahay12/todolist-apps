@@ -8,29 +8,22 @@ Require :
 - electron js
 # download node js
 install node js v16.16.0 [disini](https://nodejs.org/en/)
-# install tailwind
-install tailwind terlebih dahulu [disini](https://tailwindcss.com/docs/installation)
-# configure path
-tailwind.config.js
+# 1. install tailwind
 ```
-/** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: ["./layout/index.html"],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
+npm install -D tailwindcss
+npx tailwindcss init
 ```
-
 # run tailwind
 ```
 npx tailwindcss -i ./css/input.css -o ./dist/output.css --watch
 ```
-
-# install electron js
+# 2. install express
 ```
-npm install --save-dev electron
+npm install express
+```
+# 3. install electron js
+```
+npm install electron
 ```
 # run electron
 ```
