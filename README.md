@@ -30,3 +30,7 @@ npm install electron
 ```
 npm run start
 ```
+# 4. install sqlite3
+```
+npm install sqlite3
+```
