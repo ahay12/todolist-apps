@@ -27,7 +27,11 @@ npx tailwindcss -i ./css/input.css -o ./dist/output.css --watch
 ```
 npm install express
 ```
-# 3. install electron js
+# 3. install sqlite3
+```
+npm install sqlite3
+```
+# 4. install electron js
 ```
 npm install electron
 ```
@@ -35,7 +39,4 @@ npm install electron
 ```
 npm run start
 ```
-# 4. install sqlite3
-```
-npm install sqlite3
-```
+
